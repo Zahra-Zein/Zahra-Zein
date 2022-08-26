@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Zahra-Zein
-- 👀 I’m interested in programming in C# and learning new things
-- 🌱 I’m currently learning .net core 5 
 - 💞️ I’m looking to collaborate on projects that have the oppourtunity to learn new things
 - 📫 How to reach me on my email zeinolabedinyzahra@gmail.com
+
+
+this is a test project that reads data from DB and export it as Excel file
 
 <!---
 Zahra-Zein/Zahra-Zein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
