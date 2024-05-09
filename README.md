@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Zahra-Zein
-- 💞️ I’m looking to collaborate on projects that have the oppourtunity to learn new things
-- 📫 How to reach me on my email zeinolabedinyzahra@gmail.com
+- # 👋 Hi, I’m Zahra:
+🔭 I’m currently working on improving my test writing skills.<br>
+👯 I’m looking to collaborate on projects which need tests to be written.<br>
+🌱 I’m currently learning docker and microservices architecture.<br>
 
 
-this is a test project that reads data from DB and export it as Excel file
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahra-Zein)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Zahra-Zein/Zahra-Zein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
